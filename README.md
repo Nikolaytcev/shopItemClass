@@ -1,4 +1,5 @@
 # React + Vite
+[![Build status](https://ci.appveyor.com/api/projects/status/heg49wxv3ncakwg2?svg=true)](https://ci.appveyor.com/project/Nikolaytcev/shopitemclass)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
